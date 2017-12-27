@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hi Humans!
 I signed to this github for developing and managing my projects.
